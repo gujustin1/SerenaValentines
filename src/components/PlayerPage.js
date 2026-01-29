@@ -118,15 +118,11 @@ export default function PlayerPage() {
         </button>
 
         <img
+          key={photoIndex}
           src={album.photos[photoIndex]}
-          alt={`Photo ${photoIndex + 1}`}
-          className="gallery-photo"
+          alt=""
+          className="gallery-photo fade"
         />
-
-        {/* PHOTO COUNTER */}
-        <div className="photo-counter">
-          {photoIndex + 1} / {album.photos.length}
-        </div>
 
         <button className="photo-nav right" onClick={handleNext}>
           ›
