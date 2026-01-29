@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SerenaValentines/static/css/main.d96be00a.css",
+    "main.js": "/SerenaValentines/static/js/main.341434a1.js",
+    "static/js/453.2d839435.chunk.js": "/SerenaValentines/static/js/453.2d839435.chunk.js",
+    "index.html": "/SerenaValentines/index.html",
+    "main.d96be00a.css.map": "/SerenaValentines/static/css/main.d96be00a.css.map",
+    "main.341434a1.js.map": "/SerenaValentines/static/js/main.341434a1.js.map",
+    "453.2d839435.chunk.js.map": "/SerenaValentines/static/js/453.2d839435.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96be00a.css",
+    "static/js/main.341434a1.js"
+  ]
+}
